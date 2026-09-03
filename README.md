@@ -24,22 +24,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Aigod01/Leetcode_daily/tree/master/0695-max-area-of-island) |
 | [0997-find-the-town-judge](https://github.com/Aigod01/Leetcode_daily/tree/master/0997-find-the-town-judge) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aigod01/Leetcode_daily/tree/master/2101-detonate-the-maximum-bombs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aigod01/Leetcode_daily/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Aigod01/Leetcode_daily/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Aigod01/Leetcode_daily/tree/master/0785-is-graph-bipartite) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aigod01/Leetcode_daily/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Aigod01/Leetcode_daily/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Aigod01/Leetcode_daily/tree/master/0785-is-graph-bipartite) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aigod01/Leetcode_daily/tree/master/2101-detonate-the-maximum-bombs) |
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Aigod01/Leetcode_daily/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Aigod01/Leetcode_daily/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
@@ -63,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aigod01/Leetcode_daily/tree/master/2101-detonate-the-maximum-bombs) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Aigod01/Leetcode_daily/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
