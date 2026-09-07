@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Aigod01/Leetcode_daily/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Aigod01/Leetcode_daily/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Aigod01/Leetcode_daily/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Aigod01/Leetcode_daily/tree/master/0785-is-graph-bipartite) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Aigod01/Leetcode_daily/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Aigod01/Leetcode_daily/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Aigod01/Leetcode_daily/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Aigod01/Leetcode_daily/tree/master/0785-is-graph-bipartite) |
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Aigod01/Leetcode_daily/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Aigod01/Leetcode_daily/tree/master/0695-max-area-of-island) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Aigod01/Leetcode_daily/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Aigod01/Leetcode_daily/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
