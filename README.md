@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Aigod01/Leetcode_daily/tree/master/0279-perfect-squares) |
 | [0556-next-greater-element-iii](https://github.com/Aigod01/Leetcode_daily/tree/master/0556-next-greater-element-iii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aigod01/Leetcode_daily/tree/master/2101-detonate-the-maximum-bombs) |
 | [3871-count-commas-in-range-ii](https://github.com/Aigod01/Leetcode_daily/tree/master/3871-count-commas-in-range-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Aigod01/Leetcode_daily/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/Aigod01/Leetcode_daily/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Aigod01/Leetcode_daily/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -98,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Aigod01/Leetcode_daily/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Aigod01/Leetcode_daily/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Aigod01/Leetcode_daily/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
