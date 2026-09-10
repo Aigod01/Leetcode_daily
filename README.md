@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Aigod01/Leetcode_daily/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Aigod01/Leetcode_daily/tree/master/0785-is-graph-bipartite) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aigod01/Leetcode_daily/tree/master/2101-detonate-the-maximum-bombs) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aigod01/Leetcode_daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -90,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Aigod01/Leetcode_daily/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aigod01/Leetcode_daily/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aigod01/Leetcode_daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Aigod01/Leetcode_daily/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aigod01/Leetcode_daily/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aigod01/Leetcode_daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
