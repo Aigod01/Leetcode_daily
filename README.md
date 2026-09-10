@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Aigod01/Leetcode_daily/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aigod01/Leetcode_daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Aigod01/Leetcode_daily/tree/master/0463-island-perimeter) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Aigod01/Leetcode_daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aigod01/Leetcode_daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Aigod01/Leetcode_daily/tree/master/0695-max-area-of-island) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Aigod01/Leetcode_daily/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aigod01/Leetcode_daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Aigod01/Leetcode_daily/tree/master/0463-island-perimeter) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Aigod01/Leetcode_daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aigod01/Leetcode_daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Aigod01/Leetcode_daily/tree/master/0695-max-area-of-island) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Aigod01/Leetcode_daily/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Aigod01/Leetcode_daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aigod01/Leetcode_daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aigod01/Leetcode_daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Aigod01/Leetcode_daily/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Aigod01/Leetcode_daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aigod01/Leetcode_daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aigod01/Leetcode_daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
