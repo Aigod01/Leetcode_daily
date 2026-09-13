@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Aigod01/Leetcode_daily/tree/master/0198-house-robber) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aigod01/Leetcode_daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Aigod01/Leetcode_daily/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Aigod01/Leetcode_daily/tree/master/0695-max-area-of-island) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Aigod01/Leetcode_daily/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Aigod01/Leetcode_daily/tree/master/0279-perfect-squares) |
 ## Knapsack Problem
 |  |
