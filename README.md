@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Aigod01/Leetcode_daily/tree/master/0279-perfect-squares) |
 | [0556-next-greater-element-iii](https://github.com/Aigod01/Leetcode_daily/tree/master/0556-next-greater-element-iii) |
 | [0836-rectangle-overlap](https://github.com/Aigod01/Leetcode_daily/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/Aigod01/Leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aigod01/Leetcode_daily/tree/master/2101-detonate-the-maximum-bombs) |
 | [3871-count-commas-in-range-ii](https://github.com/Aigod01/Leetcode_daily/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aigod01/Leetcode_daily/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Aigod01/Leetcode_daily/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Aigod01/Leetcode_daily/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/Aigod01/Leetcode_daily/tree/master/0835-image-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/Aigod01/Leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/Aigod01/Leetcode_daily/tree/master/0997-find-the-town-judge) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Aigod01/Leetcode_daily/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aigod01/Leetcode_daily/tree/master/2101-detonate-the-maximum-bombs) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Aigod01/Leetcode_daily/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/Aigod01/Leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aigod01/Leetcode_daily/tree/master/2101-detonate-the-maximum-bombs) |
 ## Matrix
 |  |
@@ -153,21 +156,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aigod01/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Aigod01/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Aigod01/Leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aigod01/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Aigod01/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Aigod01/Leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aigod01/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Aigod01/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Aigod01/Leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aigod01/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Aigod01/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Aigod01/Leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -176,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aigod01/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aigod01/Leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
