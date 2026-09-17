@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aigod01/Leetcode_daily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aigod01/Leetcode_daily/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aigod01/Leetcode_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0556-next-greater-element-iii](https://github.com/Aigod01/Leetcode_daily/tree/master/0556-next-greater-element-iii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aigod01/Leetcode_daily/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Aigod01/Leetcode_daily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aigod01/Leetcode_daily/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Aigod01/Leetcode_daily/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Aigod01/Leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aigod01/Leetcode_daily/tree/master/0238-product-of-array-except-self) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aigod01/Leetcode_daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aigod01/Leetcode_daily/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
