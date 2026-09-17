@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Aigod01/Leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/Aigod01/Leetcode_daily/tree/master/0997-find-the-town-judge) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Aigod01/Leetcode_daily/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aigod01/Leetcode_daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aigod01/Leetcode_daily/tree/master/2101-detonate-the-maximum-bombs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aigod01/Leetcode_daily/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Depth-First Search
