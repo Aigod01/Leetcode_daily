@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aigod01/Leetcode_daily/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Aigod01/Leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Aigod01/Leetcode_daily/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aigod01/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Aigod01/Leetcode_daily/tree/master/0238-product-of-array-except-self) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aigod01/Leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/Aigod01/Leetcode_daily/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Aigod01/Leetcode_daily/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aigod01/Leetcode_daily/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Aigod01/Leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Aigod01/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0997-find-the-town-judge](https://github.com/Aigod01/Leetcode_daily/tree/master/0997-find-the-town-judge) |
