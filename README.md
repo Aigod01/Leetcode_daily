@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aigod01/Leetcode_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0556-next-greater-element-iii](https://github.com/Aigod01/Leetcode_daily/tree/master/0556-next-greater-element-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aigod01/Leetcode_daily/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Aigod01/Leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aigod01/Leetcode_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Aigod01/Leetcode_daily/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aigod01/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Aigod01/Leetcode_daily/tree/master/0238-product-of-array-except-self) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aigod01/Leetcode_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aigod01/Leetcode_daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
