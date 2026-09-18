@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/Aigod01/Leetcode_daily/tree/master/0556-next-greater-element-iii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aigod01/Leetcode_daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aigod01/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0997-find-the-town-judge](https://github.com/Aigod01/Leetcode_daily/tree/master/0997-find-the-town-judge) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aigod01/Leetcode_daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Geometry
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aigod01/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aigod01/Leetcode_daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/Aigod01/Leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aigod01/Leetcode_daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aigod01/Leetcode_daily/tree/master/0011-container-with-most-water) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aigod01/Leetcode_daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Stack
 |  |
 | ------- |
