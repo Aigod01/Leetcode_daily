@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Aigod01/Leetcode_daily/tree/master/0383-ransom-note) |
 | [0556-next-greater-element-iii](https://github.com/Aigod01/Leetcode_daily/tree/master/0556-next-greater-element-iii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aigod01/Leetcode_daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aigod01/Leetcode_daily/tree/master/3498-reverse-degree-of-a-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Aigod01/Leetcode_daily/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Aigod01/Leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Aigod01/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Aigod01/Leetcode_daily/tree/master/0383-ransom-note) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0997-find-the-town-judge](https://github.com/Aigod01/Leetcode_daily/tree/master/0997-find-the-town-judge) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aigod01/Leetcode_daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aigod01/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Aigod01/Leetcode_daily/tree/master/0383-ransom-note) |
 ## K-D Tree
 |  |
 | ------- |
