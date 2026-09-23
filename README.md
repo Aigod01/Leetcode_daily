@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Aigod01/Leetcode_daily/tree/master/0835-image-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Aigod01/Leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/Aigod01/Leetcode_daily/tree/master/0997-find-the-town-judge) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aigod01/Leetcode_daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Aigod01/Leetcode_daily/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aigod01/Leetcode_daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aigod01/Leetcode_daily/tree/master/2101-detonate-the-maximum-bombs) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0997-find-the-town-judge](https://github.com/Aigod01/Leetcode_daily/tree/master/0997-find-the-town-judge) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aigod01/Leetcode_daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aigod01/Leetcode_daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Geometry
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aigod01/Leetcode_daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aigod01/Leetcode_daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aigod01/Leetcode_daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aigod01/Leetcode_daily/tree/master/0238-product-of-array-except-self) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aigod01/Leetcode_daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aigod01/Leetcode_daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -292,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Aigod01/Leetcode_daily/tree/master/1025-divisor-game) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aigod01/Leetcode_daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
