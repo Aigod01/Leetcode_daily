@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aigod01/Leetcode_daily/tree/master/0022-generate-parentheses) |
 | [0383-ransom-note](https://github.com/Aigod01/Leetcode_daily/tree/master/0383-ransom-note) |
 | [0556-next-greater-element-iii](https://github.com/Aigod01/Leetcode_daily/tree/master/0556-next-greater-element-iii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aigod01/Leetcode_daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aigod01/Leetcode_daily/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aigod01/Leetcode_daily/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Aigod01/Leetcode_daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Aigod01/Leetcode_daily/tree/master/0119-pascals-triangle-ii) |
@@ -300,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aigod01/Leetcode_daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aigod01/Leetcode_daily/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aigod01/Leetcode_daily/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
