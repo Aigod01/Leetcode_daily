@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Aigod01/Leetcode_daily/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Aigod01/Leetcode_daily/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Aigod01/Leetcode_daily/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/Aigod01/Leetcode_daily/tree/master/0556-next-greater-element-iii) |
 | [0836-rectangle-overlap](https://github.com/Aigod01/Leetcode_daily/tree/master/0836-rectangle-overlap) |
@@ -321,14 +322,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Aigod01/Leetcode_daily/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Aigod01/Leetcode_daily/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Aigod01/Leetcode_daily/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Aigod01/Leetcode_daily/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Aigod01/Leetcode_daily/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Aigod01/Leetcode_daily/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
@@ -359,4 +363,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Aigod01/Leetcode_daily/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Aigod01/Leetcode_daily/tree/master/0052-n-queens-ii) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aigod01/Leetcode_daily/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aigod01/Leetcode_daily/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
