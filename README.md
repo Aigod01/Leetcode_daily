@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aigod01/Leetcode_daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aigod01/Leetcode_daily/tree/master/2101-detonate-the-maximum-bombs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aigod01/Leetcode_daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Aigod01/Leetcode_daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aigod01/Leetcode_daily/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Depth-First Search
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Aigod01/Leetcode_daily/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Aigod01/Leetcode_daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Trie
 |  |
 | ------- |
