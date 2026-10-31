@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/Aigod01/Leetcode_daily/tree/master/2101-detonate-the-maximum-bombs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aigod01/Leetcode_daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aigod01/Leetcode_daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Aigod01/Leetcode_daily/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aigod01/Leetcode_daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aigod01/Leetcode_daily/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Depth-First Search
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Aigod01/Leetcode_daily/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/Aigod01/Leetcode_daily/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Aigod01/Leetcode_daily/tree/master/1254-number-of-closed-islands) |
+| [3665-twisted-mirror-path-count](https://github.com/Aigod01/Leetcode_daily/tree/master/3665-twisted-mirror-path-count) |
 ## Tree
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Aigod01/Leetcode_daily/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Aigod01/Leetcode_daily/tree/master/1137-n-th-tribonacci-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aigod01/Leetcode_daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3665-twisted-mirror-path-count](https://github.com/Aigod01/Leetcode_daily/tree/master/3665-twisted-mirror-path-count) |
 ## Knapsack Problem
 |  |
 | ------- |
