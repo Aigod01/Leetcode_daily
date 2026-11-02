@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aigod01/Leetcode_daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/Aigod01/Leetcode_daily/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Aigod01/Leetcode_daily/tree/master/0292-nim-game) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aigod01/Leetcode_daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aigod01/Leetcode_daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Aigod01/Leetcode_daily/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/Aigod01/Leetcode_daily/tree/master/0556-next-greater-element-iii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aigod01/Leetcode_daily/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aigod01/Leetcode_daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aigod01/Leetcode_daily/tree/master/0417-pacific-atlantic-water-flow) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aigod01/Leetcode_daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aigod01/Leetcode_daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Aigod01/Leetcode_daily/tree/master/0463-island-perimeter) |
 | [0502-ipo](https://github.com/Aigod01/Leetcode_daily/tree/master/0502-ipo) |
