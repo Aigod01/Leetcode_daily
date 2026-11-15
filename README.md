@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Aigod01/Leetcode_daily/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Aigod01/Leetcode_daily/tree/master/1137-n-th-tribonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aigod01/Leetcode_daily/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aigod01/Leetcode_daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aigod01/Leetcode_daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aigod01/Leetcode_daily/tree/master/2101-detonate-the-maximum-bombs) |
 | [2409-count-days-spent-together](https://github.com/Aigod01/Leetcode_daily/tree/master/2409-count-days-spent-together) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Aigod01/Leetcode_daily/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aigod01/Leetcode_daily/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aigod01/Leetcode_daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aigod01/Leetcode_daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aigod01/Leetcode_daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Aigod01/Leetcode_daily/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aigod01/Leetcode_daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Aigod01/Leetcode_daily/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Aigod01/Leetcode_daily/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Aigod01/Leetcode_daily/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aigod01/Leetcode_daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aigod01/Leetcode_daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3665-twisted-mirror-path-count](https://github.com/Aigod01/Leetcode_daily/tree/master/3665-twisted-mirror-path-count) |
 ## Knapsack Problem
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aigod01/Leetcode_daily/tree/master/0238-product-of-array-except-self) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aigod01/Leetcode_daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aigod01/Leetcode_daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aigod01/Leetcode_daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aigod01/Leetcode_daily/tree/master/3364-minimum-positive-sum-subarray) |
